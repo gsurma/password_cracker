@@ -45,7 +45,7 @@ Randomized and split into:
 
 After 100 thousands of learning iterations, RNN LSTM model generated **896** passwords and **119** of them were in the validation set. 
 
-It means that **13%** of the generated password were *cracked*.
+It means that **13%** of the generated password were *the real ones*.
 
 Examples of AI generated passwords that were actually used by people:
 
