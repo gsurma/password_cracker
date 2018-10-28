@@ -10,7 +10,7 @@ This project was developed for purely educational use. Don't use it for any evil
 
 ## Idea
 1. Given a large dataset of leaked passwords.
-2. Train a **RNN LSTM** model on it.
+2. Train an **RNN LSTM** model on it.
 3. Generate new passwords.
 
 ## Data
