@@ -14,7 +14,7 @@ This project was developed for purely educational use. Don't use it for any evil
 3. Generate new passwords.
 
 ## Data
-[Top 85 millions WPA (Wi-Fi) Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length)
+[Top 85 million WPA (Wi-Fi) Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length)
 
 Randomized and split into:
 
