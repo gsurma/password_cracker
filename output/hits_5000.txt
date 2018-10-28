@@ -1,0 +1,6 @@
+Iteration: 5000
+Entries: 871
+Hits: 2
+Hit ratio: 0.00229621125144
+kalimati
+justas123

@@ -1,0 +1,4 @@
+Iteration: 1000
+Entries: 1
+Hits: 0
+Hit ratio: 0.0
