@@ -5,6 +5,11 @@
 # Password Cracker
 Character-level **RNN** (Recurrent Neural Net) **LSTM** (Long Short-Term Memory) text predictor intended for password generation research.
 
+Check out corresponding Medium article:
+
+[Password Cracker - Generating Passwords with Recurrent Neural Networks (LSTMs)🔑🔓](https://towardsdatascience.com/password-cracker-generating-passwords-with-recurrent-neural-networks-lstms-9583714a3310)
+
+
 ## Disclaimer
 This project was developed for purely educational use. Don't use it for any evil purposes.
 
